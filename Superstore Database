@@ -1,0 +1,3 @@
+select stock_quantity 
+from superstore
+WHERE item_name="Air Purifier"
